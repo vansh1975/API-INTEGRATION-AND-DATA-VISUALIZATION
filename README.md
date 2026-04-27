@@ -45,10 +45,6 @@ This is where the Matplotlib and Seaborn libraries come into play. The goal is t
 Matplotlib provides the foundational structure, allowing you to define figure sizes, axes, and labels.
 Seaborn sits on top of Matplotlib, offering high-level interfaces for more aesthetically pleasing and statistically complex plots, such as heatmaps, time-series line graphs, or distribution plots.
 
-
-
-
-
 This task mimics the role of a Junior Data Engineer or Data Analyst. In a real-world company, data doesn't just sit in a file; it lives on servers.
 
 Automation: By writing this script, you prove you can automate the process of fetching fresh data every morning without manual entry.
@@ -56,4 +52,11 @@ Automation: By writing this script, you prove you can automate the process of fe
 Scalability: If the API changes or you need to fetch data for 100 cities instead of one, your code (using loops and functions) can handle it instantly.
 
 Insight Delivery: Most stakeholders (managers/clients) cannot read JSON code. Your ability to turn that code into a Seaborn heatmap allows them to make decisions in seconds.
+
+
+
+
+*Output*
+
+<img width="714" height="547" alt="Image" src="https://github.com/user-attachments/assets/cb8e5c68-0217-43d2-bb0b-118d1430e782" />
 
