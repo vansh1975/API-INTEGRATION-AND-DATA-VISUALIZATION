@@ -36,3 +36,8 @@ if response.status_code == 200:
     plt.show()
 else:
     print("Error fetching data")
+
+
+
+
+
