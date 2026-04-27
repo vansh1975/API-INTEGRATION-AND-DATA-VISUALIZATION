@@ -51,7 +51,7 @@ Automation: By writing this script, you prove you can automate the process of fe
 
 Scalability: If the API changes or you need to fetch data for 100 cities instead of one, your code (using loops and functions) can handle it instantly.
 
-Insight Delivery: Most stakeholders (managers/clients) cannot read JSON code. Your ability to turn that code into a Seaborn heatmap allows them to make decisions in seconds.
+Insight Delivery: Most stakeholders (managers/clients) cannot read JSON code. MY ability to turn that code into a Seaborn heatmap allows them to make decisions in seconds.
 
 
 
